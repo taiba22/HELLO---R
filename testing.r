@@ -1,3 +1,3 @@
-# this is fro Github
+# this is for Github
 print("hello from Github")
 
