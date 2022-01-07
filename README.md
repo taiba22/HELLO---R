@@ -1,2 +1,2 @@
 # HELLO---R
-this is y first ever repo for the R programming language.
+this is my first repo for the R programming language.
